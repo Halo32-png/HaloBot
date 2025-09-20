@@ -1,4 +1,3 @@
 flask
 twilio
-pyttsx3
-requests
+gunicorn
