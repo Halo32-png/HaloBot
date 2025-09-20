@@ -1,1 +1,1 @@
-web: python halo_whatsapp.py
+web: gunicorn halo_whatsapp:app
